@@ -24,7 +24,7 @@ Nhân vật ví dụ: Minh, Junior Product Manager tại một công ty SaaS kho
 Minh scan 10 problems, vượt mức tối thiểu 5.
 
 | # | Lăng kính | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật |
-|---|---|---|---|---|
+|---|---|---|---|---|   
 | 1 | Lặp lại | Mỗi thứ Hai tổng hợp Weekly Report từ Jira, Sheets, Slack | PM, EM, CEO | Mất khoảng 90 phút/tuần |
 | 2 | Lặp lại | Copy sprint velocity từ Jira vào slide update | PM | Lặp lại mỗi tuần |
 | 3 | Tốn thời gian | Review PRD 10-15 trang trước khi comment | PM reviewer, design lead | 45 phút/bản |
